@@ -12,6 +12,7 @@ See `test/levenshtein-simple.test.js`
 
 ```javascript
 import assert from 'power-assert';
+import _ from 'lodash';
 
 const a = [
   {
